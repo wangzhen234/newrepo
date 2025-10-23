@@ -1,1 +1,2 @@
 git ls-files查看当前被追踪的文件
+git branch -m master main重命名分支，从master到main
